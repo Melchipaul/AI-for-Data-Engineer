@@ -1,0 +1,201 @@
+ProductID,ProductName,Category,Price,StockQuantity,Supplier,Description
+101,Dog Food,Food,25.99,100,PetSuppliesCo,Premium dry dog food with essential nutrients.
+102,Cat Litter,Litter,15.5,200,FelineProducts,Clumping cat litter with odor control.
+103,Bird Cage,Housing,45.0,50,AviaryHomes,Spacious bird cage suitable for small to medium birds.
+104,Fish Tank,Housing,60.75,20,AquaWorld,Glass fish tank with filtration system.
+105,Rabbit Hutch,Housing,75.0,10,BunnyHavens,Wooden rabbit hutch with waterproof roof.
+106,Hamster Bedding,Bedding,8.99,150,CritterComforts,Soft and absorbent bedding for hamsters.
+107,Dog Leash,Accessories,12.99,75,PawGear,Durable dog leash made from high-quality materials.
+108,Cat Scratching Post,Furniture,35.5,60,FelineFurniture,Sturdy scratching post to keep your cat entertained.
+109,Bird Food,Food,20.99,150,AviaryNutrition,Nutrient-rich bird seeds for a healthy diet.
+110,Reptile Heat Lamp,Equipment,25.49,40,ReptileEssentials,Heat lamp for reptiles to maintain optimal temperature.
+111,Dog Bed,Bedding,49.99,55,PawComforts,Orthopedic dog bed for ultimate comfort.
+112,Cat Carrier,Travel,39.99,100,FelineTravel,Sturdy and spacious cat carrier for travel.
+113,Aquarium Decorations,Accessories,15.99,90,AquaDecor,Colorful decorations to enhance your aquarium.
+114,Small Animal Toys,Toys,10.49,120,CritterPlaytime,Fun toys for small animals like hamsters and guinea pigs.
+115,Bird Perch,Accessories,12.0,80,AviaryPerches,Comfortable perch for birds of all sizes.
+116,Puppy Training Pads,Training,22.0,140,PawTraining,Absorbent pads for easy puppy training.
+117,Catnip Toys,Toys,6.99,200,FelineJoy,Fun catnip-filled toys for hours of play.
+118,Guinea Pig Food,Food,17.5,60,SmallPetNutrition,Balanced food for guinea pigs.
+119,Dog Coat,Clothing,35.0,30,PawFashion,Warm coat for dogs on chilly days.
+120,Bird Bath,Accessories,18.5,45,AviaryBaths,A refreshing bath for your feathered friends.
+121,Fish Food,Food,14.99,170,AquaNutrition,Sinking and floating fish pellets.
+122,Rabbit Chew Toys,Toys,9.99,80,BunnyPlaytime,Natural chew toys for rabbits.
+123,Parrot Treats,Food,12.99,75,AviaryDelights,Healthy treats for parrots.
+124,Cat Grooming Brush,Grooming,8.0,120,FelineGrooming,Effective brush for grooming your cat's fur.
+125,Hamster Cage,Housing,45.99,40,CritterCages,Spacious and fun cage for hamsters.
+126,Heat Mat for Reptiles,Heating,24.99,50,ReptileHeat,Safe and reliable heat mat for reptiles.
+127,Aquarium Filter,Equipment,29.99,60,AquaClean,High-efficiency aquarium filter.
+128,Dog Training Collar,Training,39.99,45,PawTrain,Rechargeable training collar with remote.
+129,Cat Water Fountain,Hydration,22.0,70,FelineHydration,Electric water fountain that encourages drinking.
+130,Pet Shampoo,Grooming,13.99,150,CleanCritters,Gentle shampoo for all pets.
+131,Rabbit Pellets,Food,19.99,85,BunnyNutrition,High-fiber pellets for rabbits.
+132,Canary Food,Food,12.5,90,AviaryMeals,Specially formulated food for canaries.
+133,Horse Grooming Kit,Grooming,49.99,30,EquineEssentials,Complete grooming kit for horses.
+134,Dog Toothbrush,Health,5.5,200,PawHealth,Specially designed toothbrush for dogs.
+135,Small Animal Habitat,Housing,99.99,20,CritterHavens,Multi-tier habitat for small animals.
+136,Llama Food,Food,30.0,65,LlamaNutrition,Special blend for llamas and alpacas.
+137,Pond Water Conditioner,Water Care,15.0,80,PondCare,Keeps pond water clean and safe for fish.
+138,Pet First Aid Kit,Health,25.99,35,PawSafety,Basic first aid kit for pets.
+139,Fish Tank Decorations,Accessories,10.5,110,AquaStyles,Decorative items to beautify your tank.
+140,Rabbit Treats,Food,8.99,70,BunnyDelights,Tasty treats for rabbits.
+141,Dog Training Treats,Food,12.99,150,PawRewards,Healthy treats for training your dog.
+142,Turtle Tank,Housing,75.0,15,AquaTurtles,Spacious tank designed for turtles.
+143,Cat Food Bowls,Accessories,9.99,55,FelineFeeding,Stylish feeding bowls for cats.
+144,Bird Seed Mix,Food,18.0,130,AviaryBlend,Nutritious mix of seeds for all birds.
+145,Pet Cooling Mat,Bedding,40.0,40,PawChill,Cooling mat for dogs and cats.
+146,Aquarium Gravel,Accessories,9.0,150,AquaGround,Colored gravel for aquarium decoration.
+147,Parrot Cage,Housing,99.99,25,AviaryKingdom,Spacious cage for your parrot.
+148,Small Animal Harness,Accessories,22.0,60,CritterWalks,Comfortable harness for small pets.
+149,Dog Bike Basket,Travel,27.99,30,PawAdventures,Bike basket for small dog transport.
+150,Ferret Food,Food,24.5,55,FerretFeast,Nutritious food specifically designed for ferrets.
+151,Lizard Food,Food,20.99,80,ReptileFeast,High-quality food for various lizard species.
+152,Fish Net,Equipment,7.99,100,AquaTools,Durable net for easy fish handling.
+153,Dog Cooling Vest,Clothing,29.99,50,PawCooling,Cooling vest for warm weather.
+154,Fish Tank Light,Lighting,39.99,40,AquaBright,LED light perfect for aquariums.
+155,Bunny Litter Box,Supplies,15.99,80,BunnySuppliers,Eco-friendly litter box for rabbits.
+156,Pet Camera,Technology,99.0,30,PawTech,Monitor your pets remotely.
+157,Cat Nail Clippers,Grooming,10.99,120,FelineGroomers,Safe nail clippers designed for cats.
+158,Dog Pooper Scooper,Cleaning,14.99,130,PawClean,Easy-to-use pooper scooper.
+159,Fish Aerator,Equipment,29.99,50,AquaAir,Aerator for maintaining water quality.
+160,Guinea Pig Cage,Housing,85.0,20,SmallPetHavens,Spacious cage designed for guinea pigs.
+161,Dog Chew Bones,Toys,9.99,150,PawChews,Durable bones for dogs.
+162,Pet Travel Bag,Travel,45.0,35,TravelPaw,Convenient bag for pet travel.
+163,Reptile Enclosure,Housing,120.99,15,ReptileResorts,Comfortable and spacious enclosure for reptiles.
+164,Bird Feeder,Accessories,18.5,90,AviaryFeeders,Attract birds to your garden.
+165,Pet Odor Eliminator,Cleaning,9.0,150,PawFresh,Eliminates pet odors effectively.
+166,Dog Reflective Vest,Safety,25.5,40,PawSafety,Reflective vest for night walks.
+167,Aquarium Thermometer,Equipment,10.99,130,AquaTemp,Accurate thermometer for aquariums.
+168,Guinea Pig Shampoo,Grooming,12.0,75,SmallPetGrooming,Gentle shampoo for guinea pigs.
+169,Dog Clipper,Grooming,89.99,20,PawGrooming,Professional clipper for dog grooming.
+170,Pet Backpack,Travel,42.0,25,PawPack,Backpack for easy pet transportation.
+171,Dog Muzzle,Safety,15.0,100,PawProtection,Comfortable muzzle for training.
+172,Fish Medications,Health,19.99,45,AquaHealth,Medicines for common fish ailments.
+173,Bird Call Toy,Toys,7.0,120,AviaryFun,Stimulating toy that makes bird calls.
+174,Ferret Carrier,Travel,35.0,70,FerretTravel,Portable carrier for ferrets.
+175,Hedgehog Diet,Food,23.5,40,HedgehogNutrition,Balanced diet for hedgehogs.
+176,Pet Water Bottle,Hydration,11.99,150,PawHydration,Portable water bottle for pets.
+177,Ferret Bed,Bedding,15.99,60,FerretComfort,Cozy bed designed for ferrets.
+178,Pet Hair Remover,Cleaning,12.0,80,PawClean,Effective hair remover for pet owners.
+179,Fish Breeder Box,Equipment,22.5,50,AquaBreed,Breeder box for aquarium fish.
+180,Dog Cooling Bandana,Clothing,16.99,55,PawCooling,Cooling bandana for dogs.
+181,Turtle Food,Food,27.5,30,TurtleNutrition,Balanced food for turtles.
+182,Pet Training Clicker,Training,6.5,100,PawTrain,Clicker for effective pet training.
+183,Fish Scoop,Equipment,4.99,200,AquaTools,Scoop for safely handling fish.
+184,Corner Litter Box,Supplies,14.5,70,FelineCare,Space-saving litter box for cats.
+185,Bird Treats,Food,9.99,100,AviaryDelights,Delicious treats for all types of birds.
+186,Ferret Toys,Toys,8.0,150,FerretFun,Toys designed for active ferrets.
+187,Pet Stroller,Travel,79.99,20,PawTravel,Stroller for taking pets on walks.
+188,Fish Tank Stand,Furniture,59.99,35,AquaFurniture,Sturdy stand for fish tanks.
+189,Parakeet Food,Food,12.75,80,AviaryFeast,Specially formulated food for parakeets.
+190, Lizard Habitat Decor,Accessories,25.0,50,ReptileDecor,Naturalistic decorations for lizard habitats.
+191,Koi Food,Food,18.0,90,KoiNutrition,Quality food for koi fish.
+192,Bird Carrying Bag,Travel,32.99,25,AviaryTravel,Convenient carrying bag for birds.
+193,Pet Hair Dryer,Grooming,45.0,20,PawDry,High-velocity dryer for pets.
+194,Fish Feeders,Feeding,16.0,70,AquaFeeders,Automatic feeders for fish.
+195,Turtle Tank Filter,Equipment,40.0,30,TurtleClean,Filter designed for turtle tanks.
+196,Small Animal Dust Bath,Supplies,13.5,50,CritterHealth,Dust bath for small animals.
+197,Dog Playpen,Training,60.0,20,PawPlay,Portable playpen for dogs.
+198,Pet GPS Tracker,Technology,39.99,25,PawTracker,GPS tracker for keeping tabs on your pet.
+199,Rabbit Play Pen,Training,55.0,35,BunnyPlay,Fun playpen for rabbits.
+200,Pet Hydroponic Garden,Feeding,99.99,10,GreenPaws,Grow fresh herbs for your pets at home.
+201,Organic Chicken Feed,Food,29.5,80,ChickenNutrition,Complete feed for chickens.
+202,Stable Horse Blanket,Clothing,60.0,25,EquineGear,High-quality blanket for horses.
+203,Puppy Collar,Accessories,10.5,120,PupStyle,Stylish collar for puppies.
+204,Pet Training Book,Training,15.0,70,PawBooks,Guides to train various pets.
+205,Hedgehog Bedding,Bedding,14.99,100,HedgehogComfort,Soft bedding material for hedgehogs.
+206,Horse Saddle,Equipment,299.0,10,EquineEssentials,High-quality saddle for riding.
+207,Pet Travel Bowl,Hydration,12.99,150,PawHydration,Portable water bowl for pets.
+208,Ferret Harness,Accessories,24.0,60,FerretWalks,Comfortable harness designed for ferrets.
+209,Pet Carrier,Travel,49.99,30,PawTravel,Sturdy carrier for small pets.
+210,Horse Treats,Food,11.0,90,EquineSnacks,Treats that horses love.
+211,Pet Training Pads,Training,26.5,140,PawTraining,Training pads for puppies.
+212,Duck Food,Food,22.5,70,DuckNutrition,Balanced food for ducks.
+213,Parrot Cage Stand,Furniture,45.0,20,AviaryFurniture,Sturdy stand for parrot cages.
+214,Guinea Pig Wheels,Toys,29.99,50,SmallPetExercise,Exercise wheels designed for guinea pigs.
+215,Pet Detox Spray,Health,17.0,55,PawDetox,Detox spray for pets.
+216,Aquarium Cleaning Kit,Maintenance,35.0,30,AquaCare,Complete cleaning kit for aquariums.
+217,Pet Cycling Basket,Travel,30.0,35,PawCycling,Basket for cycling with your pet.
+218,Reptile Food,Food,19.99,60,ReptileGourmet,High-quality food for reptiles.
+219,Pet Hydration Tablets,Health,9.99,100,PawHealth,Hydration tablets for general wellness.
+220,Dog Squeaky Toy,Toys,8.99,200,PawFun,Squeaky toy that dogs love.
+221,Pet Travel Bed,Bedding,35.0,45,PawComfort,Portable bed for pets.
+222,Horse Grooming Gloves,Grooming,12.0,80,EquineGroom,Grooming gloves for easy brushing.
+223,Pet Car Seat Cover,Travel,29.99,70,PawTravel,Waterproof cover for pet-friendly car rides.
+224,Snake Food,Food,12.0,50,ReptileDiet,Frozen mice and rats for snake feeding.
+225,Pet Blanket,Bedding,21.5,60,PawWarmth,Comfortable blanket for pets.
+226,Parrot Spiral Toy,Toys,15.99,120,AviaryFun,Interactive spiral toy for parrots.
+227,Dog Agility Set,Training,89.99,15,PawSports,Complete agility training set.
+228,Cat Litter Scoop,Cleaning,6.99,145,FelineClean,Handy scoop for easy litter clean-up.
+229,Rabbit Chew Blocks,Toys,10.49,80,BunnyToys,Natural chew blocks for rabbits.
+230,Bird House,Housing,28.99,50,AviaryHomes,Wooden bird house for outdoor use.
+231,Pet Hair Roller,Cleaning,12.99,100,PawClean,Reusable roller for pet hair removal.
+232,Cat Collar with Bell,Accessories,5.49,200,FelineAccessory,Stylish collar with a bell for cats.
+233,Bird Nesting Material,Supplies,12.99,90,AviaryNesting,Natural materials for nesting.
+234,Aquarium Water Test Kit,Maintenance,25.99,40,AquaTest,Test kit to monitor aquarium water quality.
+235,Guinea Pig Hay Rack,Supplies,18.0,80,SmallPetFeeding,Hay rack for easy feeding.
+236,Pet Play Tunnel,Toys,15.5,70,PawPlay,Tunnels for pets to explore.
+237,Dog Fetch Ball,Toys,9.99,150,PawFun,Perfect ball for fetch games.
+238,Cat Grass,Food,5.0,200,FelineGardens,Fresh grass for indoor cats.
+239,Pet Dust Bath,Supplies,11.0,90,PawHealth,Dust bath for small rodents.
+240,Chinchilla Food,Food,25.0,40,ChinchillaNutrition,Nutritious food for chinchillas.
+241,Reptile Lighting Kit,Lighting,45.99,25,ReptileLight,Complete lighting kit for reptiles.
+242,Dog Tie-Out Stake,Accessores,17.99,75,PawSafety,Sturdy stake for dog outdoor safety.
+243,Pet Cooling Vest,Clothing,35.0,45,PawChill,Cooling vest to keep pets comfortable.
+244,Bird Training Perch,Training,14.5,50,AviaryTraining,Perch designed for training birds.
+245,Dog Life Jacket,Safety,39.99,30,PawSafety,Life jacket for dogs during water activities.
+246,Cat Scratching Mat,Furniture,10.0,100,FelineFurniture,Mat that prevents scratching furniture.
+247,Fish Tank Air Pump,Equipment,26.5,50,AquaAir,Air pump to aerate your fish tank.
+248,Dog Bed with Removable Cover,Bedding,45.0,60,PawComfort,Dog bed with an easy-to-clean removable cover.
+249,Hamster Wheel,Toys,16.99,80,CritterFun,Exercise wheel for hamsters.
+250,Bird Waterer,Hydration,10.5,50,AviaryHydration,Watering system designed for birds.
+251,Pet Car Travel Bed,Bedding,30.0,35,PawComfort,Travel bed designed for pets.
+252,Dog Paw Cleaner,Cleaning,19.99,60,PawClean,Cleans and sanitizes dog paws.
+253,Cat Nail File,Grooming,8.5,90,FelineCare,Gentle file for smoothing cat nails.
+254,Rabbit Playhouse,Furniture,45.0,15,BunnyHavens,Playhouse designed for rabbits.
+255,Dog Treat Launcher,Toys,25.0,20,PawFun,Launcher for throwing treats to your dog.
+256,Chicken Coop,Housing,199.99,10,ChickenHaven,Spacious coop for backyard chickens.
+257,Dog Puzzle Toy,Toys,16.0,60,PawPuzzle,Interactive puzzle toy for dogs.
+258,Cat Play Mat,Toys,20.0,90,FelineFun,Soft mat for cat playtime.
+259,Chinchilla Hideout,Housing,25.99,50,ChinchillaComfort,Cozy hideout for chinchillas.
+260,Catnip Spray,Toys,7.99,130,FelineJoy,Spray to activate catnip in toys.
+261,Dog Fetch Stick,Toys,8.49,140,PawFun,Great for fetch games with dogs.
+262,Rabbit Exercise Ball,Toys,19.0,40,BunnyExercise,Safe exercise ball for rabbits.
+263,Bird Treat Dispenser,Toys,14.0,80,AviaryFun,Dispenses treats as birds play.
+264,Small Animal Feeding Station,Supplies,22.5,70,CritterFeeding,Feeding station for small animals.
+265,Pet Stain Remover,Cleaning,9.99,150,PawCleaning,Removes stubborn pet stains.
+266,Dog Agility Tunnel,Training,39.99,20,PawSports,Tunnel for agility training.
+267,Cat Food Storage Container,Storage,18.49,75,FelineStorage,Keeps cat food fresh.
+268,Pet Water Fountain Filter,Maintenance,9.99,100,PawHydration,Replacement filter for pet water fountains.
+269,Hamster Exercise Wheel,Toys,8.0,120,CritterHealth,Durable exercise wheel for hamsters.
+270,Bird Toy Set,Toys,25.0,50,AviaryFun,Variety of toys for birds.
+271,Cat Carrier Backpack,Travel,55.99,20,FelineTravel,Stylish carrier backpack for cats.
+272,Dog Fetch Frisbee,Toys,10.99,150,PawFun,Durable frisbee for fetch games.
+273,Reptile Water Dish,Housing,8.5,90,ReptileSupplies,Essential water dish for reptiles.
+274,Guinea Pig Bridges,Accessories,15.99,55,SmallPetFun,Bridges for fun and exploration.
+275,Pet Hair Trimmer,Grooming,29.99,40,PawGrooming,Trimmer for maintaining pet fur.
+276,Dog Trolley,Training,50.0,20,PawTrain,Training trolley for dogs.
+277,Pet Shower Spray,Grooming,14.99,80,PawClean,Shower spray attachment for dogs.
+278,Horse Whip,Equipment,15.0,40,EquineGear,Durable whip for horse training.
+279,Dog Pooper Bag Dispenser,Cleaning,6.99,150,PawClean,Convenient dispenser for pooper bags.
+280,Pet House,Housing,99.99,15,PawHaven,Comfortable house for pets.
+281,Ferret Litter Box,Supplies,14.99,25,FerretCare,Designated litter box for ferrets.
+282,Aquarium Co2 System,Equipment,120.99,12,AquaTechnology,System to enhance plant growth.
+283,Pet Carrier with Wheels,Travel,70.0,30,PawTravel,Carrier with wheels for easier transport.
+284,Bunny Water Bottle,Hydration,9.99,200,BunnyHydration,Water bottle designed for rabbits.
+285,Fish Conditioning Products,Health,15.5,75,AquaWellness,Various products to keep fish healthy.
+286,Dog Travel Crate,Travel,89.99,30,PawTravel,Portable crate for easy travel.
+287,Pet Tent,Bedding,45.0,20,PawComfort,Cozy tent for pets.
+288,Ferret Food Bowl,Supplies,8.5,90,FerretDining,Bowl designed for ferrets.
+289,Fish Tank Sump,Equipment,70.0,15,AquaSump,Sump system for larger aquariums.
+290,Dog Winter Coat,Clothing,40.0,37,PawFashion,Winter coat to keep dogs warm.
+291,Snack Ball for Pets,Toys,9.0,100,PawFun,Ball that dispenses treats.
+292,Clean-Up Pooper Bags,Cleaning,12.0,120,PawClean,Biodegradable pooper bags.
+293,Reptile Hide Box,Housing,15.0,70,ReptileSupplies,Hide box for reptiles to feel secure.
+294,Bird Seed Storage Container,Storage,20.0,50,AviaryStorage,Keeps bird seed fresh.
+295,Rabbit Food Storage Container,Storage,15.99,90,BunnyStorage,Keeps rabbit food fresh and dry.
+296,Pet Exercise Pen,Training,69.99,30,PawPlay,Portable exercise pen for pets.
+297,Horse Bridle,Equipment,55.0,20,EquineGear,Premium bridle for horses.
+298,Lizard Hideaway,Housing,18.5,50,ReptileHaven,Safe hideouts for lizards.
+299,Cat Litter Box with High Sides,Supplies,19.99,80,FelineSupplies,High-sided litter box to keep litter contained.
+300,Dog Water Fountain,Hydration,40.0,60,PawHydration,Fountain that provides fresh water.

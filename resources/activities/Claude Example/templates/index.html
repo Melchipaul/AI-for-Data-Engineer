@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CSV Missing Value Imputation</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+</head>
+<body>
+    <div class="container">
+        <h1>CSV Missing Value Imputation</h1>
+        <div class="api-status">✅ Flask API connected successfully</div>
+        
+        <div class="upload-section">
+            <input type="file" id="fileInput" class="file-input" accept=".csv" />
+            <button class="upload-btn" id="uploadBtn" onclick="document.getElementById('fileInput').click()">
+                📁 Choose CSV File
+            </button>
+            <div class="file-info" id="fileInfo">No file selected</div>
+        </div>
+        
+        <button class="process-btn" id="processBtn" disabled onclick="processFile()">
+            ⚡ Process & Impute Missing Values
+        </button>
+        
+        <div class="loading" id="loading">
+            <div class="spinner"></div>
+            <p id="loadingText">Processing your data...</p>
+        </div>
+        
+        <div class="results-section" id="results" style="display: none;">
+            <div class="stats" id="stats"></div>
+            
+            <h3 style="margin-bottom: 15px; color: #333;">Processed Data Preview:</h3>
+            <div class="table-container">
+                <table id="dataTable"></table>
+            </div>
+            
+            <div style="text-align: center;">
+                <button class="download-btn" id="downloadBtn" onclick="downloadProcessedFile()">
+                    💾 Download Processed CSV
+                </button>
+                <button class="cleanup-btn" onclick="cleanupFiles()">
+                    🗑️ Clean Up Files
+                </button>
+            </div>
+        </div>
+    </div>
+
+    <script src="{{ url_for('static', filename='js/script.js') }}"></script>
+</body>
+</html>

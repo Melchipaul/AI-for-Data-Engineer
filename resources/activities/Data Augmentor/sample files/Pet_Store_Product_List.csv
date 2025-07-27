@@ -1,0 +1,6 @@
+ProductID,ProductName,Category,Price,StockQuantity,Supplier,Description
+101,Dog Food,Food,25.99,100,PetSuppliesCo,Premium dry dog food with essential nutrients.
+102,Cat Litter,Litter,15.5,200,FelineProducts,Clumping cat litter with odor control.
+103,Bird Cage,Housing,45.0,50,AviaryHomes,Spacious bird cage suitable for small to medium birds.
+104,Fish Tank,Housing,60.75,20,AquaWorld,Glass fish tank with filtration system.
+105,Rabbit Hutch,Housing,75.0,10,BunnyHavens,Wooden rabbit hutch with waterproof roof.

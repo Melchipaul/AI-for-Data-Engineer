@@ -1,0 +1,53 @@
+**Employment Agreement**
+
+This Employment Agreement ("Agreement") is made and entered into as of July 30, 2024, by and between Evergreen Solutions, Inc. ("Company"), a corporation organized and existing under the laws of the State of California, with its principal place of business located at 1234 Elm Street, Suite 567, Los Angeles, CA 90001, and Mark Stevens ("Employee"), residing at 789 Oak Avenue, Apartment 12B, Los Angeles, CA 90002.
+
+**1. Position and Duties**
+
+1.1 **Position**: The Company hereby employs the Employee as a Senior Software Engineer.
+1.2 **Duties**: The Employee agrees to perform the duties and responsibilities as assigned by the Company and commensurate with the position of Senior Software Engineer. The Employee will report directly to the Chief Technology Officer.
+
+**2. Term of Employment**
+
+2.1 **Start Date**: The Employee’s employment with the Company will commence on August 8, 2022.
+
+**3. Compensation**
+
+3.1 **Salary**: The Company agrees to pay the Employee an annual salary of $120,000, payable in accordance with the Company’s standard payroll practices.
+
+**4. Benefits**
+
+4.1 **Standard Benefits**: The Employee will be eligible to participate in the Company’s health, dental, vision, and retirement plans as per the Company’s standard benefits package.
+4.2 **Vacation and Leave**: The Employee shall be entitled to paid vacation and leave according to the Company’s policies in effect during the term of employment.
+
+**5. Confidentiality and Non-Compete**
+
+5.1 **Confidentiality**: The Employee agrees to maintain the confidentiality of all proprietary information and trade secrets of the Company.
+5.2 **Non-Compete**: During the term of employment and for a period of one (1) year following the termination of employment, the Employee shall not, directly or indirectly, engage in any business that competes with the Company’s business within a fifty (50) mile radius of the Company’s principal place of business.
+
+**6. Termination**
+
+6.1 **At-Will Employment**: The Employee’s employment with the Company is on an at-will basis, meaning that either the Company or the Employee may terminate the employment relationship at any time, with or without cause, and with or without notice.
+
+**7. Governing Law**
+
+7.1 **Jurisdiction**: This Agreement shall be governed by and construed in accordance with the laws of the State of California.
+
+**8. Entire Agreement**
+
+8.1 **Entire Agreement**: This Agreement constitutes the entire agreement between the parties and supersedes all prior agreements, understandings, and arrangements, whether oral or written, between the parties with respect to the subject matter hereof.
+
+IN WITNESS WHEREOF, the parties hereto have executed this Employment Agreement as of the day and year first above written.
+
+**Company: Evergreen Solutions, Inc.**
+
+By: ___________________________
+Name: Jennifer Collins  
+Title: Chief Executive Officer
+
+**Employee: Mark Stevens**
+
+By: ___________________________
+Name: Mark Stevens
+
+Date: _________________________

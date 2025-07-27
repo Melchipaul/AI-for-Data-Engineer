@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Data Query</title>
+</head>
+<body>
+    <h1>Ask any question</h1>
+    <form method="post">
+        <label for="text">Question:</label>
+        <input type="text" id="text" name="text">
+        <input type="submit" value="Submit">
+    </form>
+    {% if result %}
+        <h2>Answer:</h2>
+        <p>{{ result }}</p>
+    {% endif %}
+</body>
+</html>
