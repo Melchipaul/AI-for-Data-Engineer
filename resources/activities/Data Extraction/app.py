@@ -4,7 +4,10 @@ from openai import OpenAI
 import os
 
 # Set up OpenAI API key
-client = OpenAI(api_key='')
+from dotenv import load_dotenv
+load_dotenv()
+API_KEY = os.getenv('API_KEY')
+client = OpenAI(api_key=API_KEY)
 
 def clean(dict_variable):
     return next(iter(dict_variable.values()))
