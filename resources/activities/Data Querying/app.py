@@ -1,3 +1,4 @@
+import os
 from openai import OpenAI
 import pandas as pd
 import sqlite3
@@ -10,7 +11,10 @@ app = Flask(__name__)
 
 
 # Set up OpenAI API key
-client = OpenAI(api_key='')
+from dotenv import load_dotenv
+load_dotenv()
+API_KEY = os.getenv('API_KEY')
+client = OpenAI(api_key=API_KEY)
 
 def clean(dict_variable):
     return next(iter(dict_variable.values()))
